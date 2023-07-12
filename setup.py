@@ -2,9 +2,9 @@ from distutils.core import setup
 setup(
   name = 'PySortAlgos',
   packages = ['PySortAlgos'],
-  version = '0.1',
+  version = '0.2',
   license='MIT',
-  description = 'A simple repo that contains some commonly used sorting functions',
+  description = 'A simple package that contains some commonly used sorting functions',
   author = 'Bahir Hakimi',
   author_email = 'bahirhakimy2020@gmail.com',
   url = 'https://github.com/bahirhakimy/PySortAlgos',
